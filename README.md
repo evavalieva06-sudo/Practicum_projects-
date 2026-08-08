@@ -1,2 +1,2 @@
 # Practicum_projects-
-My projects during YandexPractucum Data Analyst courses
+My Python Pandas projects during YandexPractucum Data Analyst courses
